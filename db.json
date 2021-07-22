@@ -1,0 +1,130 @@
+{
+    "pizzas": [
+        {
+            "id": 1,
+            "name": "BBQ Burnt Ends",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944097/pizzas/BBQ-BURNT-ENDS_cllttr.png",
+            "description": "Slow-cooked beef brisket with a hint of chipotle, sweet & smoky bbq sauce, mozzarella and red onions, topped with roasted tomatoes and parsley on a Romana base.",
+            "ingredients": [
+                "beef, chipotle, bbq sauce, mozarella, red onions, tomatoes"
+            ],
+            "prices": {
+                "small": "$15.46",
+                "medium": "$19.28",
+                "large": "$22.48"
+            }
+        },
+        {
+            "id": 2,
+            "name": "La Reine",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/LA-REINE_goblpr.png",
+            "description": "Ham, black olives, mushrooms, mozzarella and tomato on a Romana base.",
+            "ingredients": [
+                "ham, black olives, mushrooms, mozarella, tomato"
+            ],
+            "prices": {
+                "small": "$13.44",
+                "medium": "$17.85",
+                "large": "$20.60"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Margherita",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944097/pizzas/MARGHERITA_zdwrfd.png",
+            "description": "Mozzarella and tomato on a Romana base. Vegan option available.",
+            "ingredients": [
+                "mozarella, tomato"
+            ],
+            "prices": {
+                "small": "$10.08",
+                "medium": "$14.48",
+                "large": "$17.85"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Padana",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944097/pizzas/PADANA_bu76ye.png",
+            "description": "Goat’s cheese, mozzarella, caramelised onion, spinach, red onion, tomato and garlic oil on a Romana base.",
+            "ingredients": [
+                "goats'cheese, mozzarella, onion (caramelised), spinach, red onion, tomato"
+            ],
+            "prices": {
+                "small": "$12.77",
+                "medium": "$15.90",
+                "large": "$19.00"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Pepperoni",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/PEPPERONI_ehxpqr.png",
+            "description": "Pepperoni, mozzarella and tomato, with your choice of hot green, hot & sweet chilli or jalapeño peppers on a Romana base.",
+            "ingredients": [
+                "pepperoni, mozzarella, tomato, hot green peppers, hot peppers, sweet chilli, jalapeño peppers"
+            ],
+            "prices": {
+                "small": "$13.50",
+                "medium": "$17.85",
+                "large": "$21.20"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Pollo Italiano",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/POLLO-ITALIANO_fh4i9q.png",
+            "description": "Chicken, spinach, mozzarella and garlic oil on a béchamel base, topped with slow-roasted tomatoes, basil & pine kernel pesto and Gran Milano cheese on a Romana base.​",
+            "ingredients": [
+                "chicken, spinach, mozzarella, garlic oil, béchamel, tomatoes, basil, pine kernel pesto, Gran Milano Cheese"
+            ],
+            "prices": {
+                "small": "$16.24",
+                "medium": "$21.85",
+                "large": "$24.00"
+            }
+        },
+        {
+            "id": "7",
+            "name": "Sloppy Vegan Romana",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944099/pizzas/SLOPPY-VEGAN-ROMANA_wppq0i.png",
+            "description": "Green pepper, red onion, tomato, smoky chilli, garlic oil, vegan mozzarella alternative and parsley on a Romana base.",
+            "ingredients": [
+                "green pepper, red onion, tomato, smoky chilli, garlic oil, vegan mozzarella, parsley"
+            ],
+            "prices": {
+                "small": "$14.84",
+                "medium": "$19.27",
+                "large": "$22.66"
+            }
+        },
+        {
+            "id": "8",
+            "name": "Vegan Giardiniera",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/VEGAN-GIARDINIERA_qzpaod.png",
+            "description": "Artichoke, mushrooms, red onion and black olives, with tomato, vegan mozzarella alternative, garlic oil and parsley on a Romana base.",
+            "ingredients": [
+                "artichoke, mushrooms, red onion, black olives, tomato, vegan mozzarella, garlioc oil, parsley"
+            ],
+            "prices": {
+                "small": "$15.20",
+                "medium": "$18.67",
+                "large": "$21.76"
+            }
+        },
+        {
+            "id": "9",
+            "name": "Veneziana",
+            "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/VENEZIANA_jiipsg.png",
+            "description": "Pine kernels, red onion, capers, black olives, sultanas, mozzarella and tomato on a Romana base (pictured). Vegan option available.",
+            "ingredients": [
+                "pine kernels, red onion, capers, black olives, sultanas, mozzarella, tomato"
+            ],
+            "prices": {
+                "small": "$16.33",
+                "medium": "$19.10",
+                "large": "$22.50"
+            }
+        }
+    ]
+}
