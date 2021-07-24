@@ -85,7 +85,7 @@
             }
         },
         {
-            "id": "7",
+            "id": 7,
             "name": "Sloppy Vegan Romana",
             "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944099/pizzas/SLOPPY-VEGAN-ROMANA_wppq0i.png",
             "description": "Green pepper, red onion, tomato, smoky chilli, garlic oil, vegan mozzarella alternative and parsley on a Romana base.",
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "8",
+            "id": 8,
             "name": "Vegan Giardiniera",
             "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/VEGAN-GIARDINIERA_qzpaod.png",
             "description": "Artichoke, mushrooms, red onion and black olives, with tomato, vegan mozzarella alternative, garlic oil and parsley on a Romana base.",
@@ -113,7 +113,7 @@
             }
         },
         {
-            "id": "9",
+            "id": 9,
             "name": "Veneziana",
             "image": "https://res.cloudinary.com/dyqr4uuoq/image/upload/v1626944098/pizzas/VENEZIANA_jiipsg.png",
             "description": "Pine kernels, red onion, capers, black olives, sultanas, mozzarella and tomato on a Romana base (pictured). Vegan option available.",
