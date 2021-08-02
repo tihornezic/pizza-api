@@ -8,7 +8,7 @@
             "ingredients": [
                 "beef, chipotle, bbq sauce, mozarella, red onions, tomatoes"
             ],
-            "prices": 
+            "prices": {
                 "small": "$15.46",
                 "medium": "$19.28",
                 "large": "$22.48"
