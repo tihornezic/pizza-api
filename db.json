@@ -9,9 +9,9 @@
                 "beef, chipotle, bbq sauce, mozarella, red onions, tomatoes"
             ],
             "prices": {
-                "small": "$15.46",
-                "medium": "$19.28",
-                "large": "$22.48"
+                "small": "15.46",
+                "medium": "19.28",
+                "large": "22.48"
             }
         },
         {
@@ -23,9 +23,9 @@
                 "ham, black olives, mushrooms, mozarella, tomato"
             ],
             "prices": {
-                "small": "$13.44",
-                "medium": "$17.85",
-                "large": "$20.60"
+                "small": "13.44",
+                "medium": "17.85",
+                "large": "20.60"
             }
         },
         {
@@ -37,9 +37,9 @@
                 "mozarella, tomato"
             ],
             "prices": {
-                "small": "$10.08",
-                "medium": "$14.48",
-                "large": "$17.85"
+                "small": "10.08",
+                "medium": "14.48",
+                "large": "17.85"
             }
         },
         {
@@ -51,9 +51,9 @@
                 "goats'cheese, mozzarella, onion (caramelised), spinach, red onion, tomato"
             ],
             "prices": {
-                "small": "$12.77",
-                "medium": "$15.90",
-                "large": "$19.00"
+                "small": "12.77",
+                "medium": "15.90",
+                "large": "19.00"
             }
         },
         {
@@ -65,9 +65,9 @@
                 "pepperoni, mozzarella, tomato, hot green peppers, hot peppers, sweet chilli, jalapeño peppers"
             ],
             "prices": {
-                "small": "$13.50",
-                "medium": "$17.85",
-                "large": "$21.20"
+                "small": "13.50",
+                "medium": "17.85",
+                "large": "21.20"
             }
         },
         {
@@ -79,9 +79,9 @@
                 "chicken, spinach, mozzarella, garlic oil, béchamel, tomatoes, basil, pine kernel pesto, Gran Milano Cheese"
             ],
             "prices": {
-                "small": "$16.24",
-                "medium": "$21.85",
-                "large": "$24.00"
+                "small": "16.24",
+                "medium": "21.85",
+                "large": "24.00"
             }
         },
         {
@@ -93,9 +93,9 @@
                 "green pepper, red onion, tomato, smoky chilli, garlic oil, vegan mozzarella, parsley"
             ],
             "prices": {
-                "small": "$14.84",
-                "medium": "$19.27",
-                "large": "$22.66"
+                "small": "14.84",
+                "medium": "19.27",
+                "large": "22.66"
             }
         },
         {
@@ -107,9 +107,9 @@
                 "artichoke, mushrooms, red onion, black olives, tomato, vegan mozzarella, garlioc oil, parsley"
             ],
             "prices": {
-                "small": "$15.20",
-                "medium": "$18.67",
-                "large": "$21.76"
+                "small": "15.20",
+                "medium": "18.67",
+                "large": "21.76"
             }
         },
         {
@@ -121,9 +121,9 @@
                 "pine kernels, red onion, capers, black olives, sultanas, mozzarella, tomato"
             ],
             "prices": {
-                "small": "$16.33",
-                "medium": "$19.10",
-                "large": "$22.50"
+                "small": "16.33",
+                "medium": "19.10",
+                "large": "22.50"
             }
         }
     ]
